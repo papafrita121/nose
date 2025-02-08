@@ -1218,3 +1218,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_netherless:incomplete_
 [08Feb2025 04:21:17.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SEINARU has made the advancement [Alex's Mobs]
 [08Feb2025 04:22:43.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [08Feb2025 04:22:43.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aa<--[HERE]
+[08Feb2025 04:29:40.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DC2220215n has made the advancement ['X' Marks the Spot]
+[08Feb2025 04:30:33.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SEINARU has made the advancement ['X' Marks the Spot]
+[08Feb2025 04:30:59.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SEINARU has made the advancement [Crops of the Wild]
+[08Feb2025 04:32:55.749] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/6523, l='ServerLevel[world]', x=-381.50, y=74.00, z=32.50]
+[08Feb2025 04:33:25.395] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/6718, l='ServerLevel[world]', x=-365.50, y=72.00, z=161.50]
+[08Feb2025 04:33:41.049] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/6832, l='ServerLevel[world]', x=-392.50, y=76.00, z=74.50]
+[08Feb2025 04:34:05.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SEINARU has made the advancement [Stone Age]
