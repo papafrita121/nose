@@ -1198,3 +1198,23 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_netherless:incomplete_
 [08Feb2025 04:12:45.202] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cdc8b0ca-1448-37e2-bf7a-bb7aa2983978
 [08Feb2025 04:12:46.200] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cdc8b0ca-1448-37e2-bf7a-bb7aa2983978
 [08Feb2025 04:12:46.200] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player SEINARU (cdc8b0ca-1448-37e2-bf7a-bb7aa2983978) successfully connected to voice chat
+[08Feb2025 04:13:46.564] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SEINARU lost connection: Disconnected
+[08Feb2025 04:13:46.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SEINARU left the game
+[08Feb2025 04:13:46.564] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client SEINARU
+[08Feb2025 04:14:38.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[08Feb2025 04:14:38.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: killaaa<--[HERE]
+[08Feb2025 04:16:00.365] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SEINARU[/127.217.44.187:60007] logged in with entity id 2448 at (315.25444583060903, 83.0, 242.86169169846985)
+[08Feb2025 04:16:00.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SEINARU joined the game
+[08Feb2025 04:16:00.429] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to SEINARU
+[08Feb2025 04:16:01.117] [Netty Epoll Server IO #0/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from SEINARU
+[08Feb2025 04:16:01.155] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of SEINARU (18)
+[08Feb2025 04:16:01.155] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to SEINARU
+[08Feb2025 04:16:12.556] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cdc8b0ca-1448-37e2-bf7a-bb7aa2983978
+[08Feb2025 04:16:13.558] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cdc8b0ca-1448-37e2-bf7a-bb7aa2983978
+[08Feb2025 04:16:13.559] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player SEINARU (cdc8b0ca-1448-37e2-bf7a-bb7aa2983978) successfully connected to voice chat
+[08Feb2025 04:19:06.950] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/2833, l='ServerLevel[world]', x=192.50, y=56.00, z=281.50]
+[08Feb2025 04:20:30.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[08Feb2025 04:20:30.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaa<--[HERE]
+[08Feb2025 04:21:17.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SEINARU has made the advancement [Alex's Mobs]
+[08Feb2025 04:22:43.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[08Feb2025 04:22:43.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aa<--[HERE]
