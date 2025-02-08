@@ -1,0 +1,17 @@
+{
+	id: "ebb3280c-0f61-3529-8f7e-ad5bb13165c8"
+	type: "player"
+	player_name: "DC2220215n"
+	ranks: {
+		ebb3280c-0f61-3529-8f7e-ad5bb13165c8: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "DC2220215n"
+		"ftbteams:description": ""
+		"ftbteams:color": "#8DFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
